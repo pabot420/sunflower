@@ -1,7 +1,10 @@
 {
   "name": "sunflower",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.1.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pabot420/sunflower.git"
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
