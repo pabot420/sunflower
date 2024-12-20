@@ -4,6 +4,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/pabot420/sunflower.git"
+  },
   "private": false,
   "scripts": {
     "dev": "next dev",
